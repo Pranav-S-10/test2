@@ -129,7 +129,6 @@ The objective of this project is to set up a CI/CD pipeline to build, test, and 
 ## Output
 
 - Successful pipeline execution in Jenkins.
-- Docker image pushed to Docker Hub (`rpillaiakshay/node-app:latest`).
 - Application deployed to Kubernetes cluster.
 - Monitor system status using Grafana-Prometheus.
 
